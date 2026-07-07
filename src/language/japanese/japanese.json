@@ -1,0 +1,524 @@
+{
+  "hiragana": [
+    {
+      "character": "あ",
+      "pronunciation": "a",
+      "category": "Vowels"
+    },
+    {
+      "character": "い",
+      "pronunciation": "i",
+      "category": "Vowels"
+    },
+    {
+      "character": "う",
+      "pronunciation": "u",
+      "category": "Vowels"
+    },
+    {
+      "character": "え",
+      "pronunciation": "e",
+      "category": "Vowels"
+    },
+    {
+      "character": "お",
+      "pronunciation": "o",
+      "category": "Vowels"
+    },
+    {
+      "character": "か",
+      "pronunciation": "ka",
+      "category": "K-Group"
+    },
+    {
+      "character": "き",
+      "pronunciation": "ki",
+      "category": "K-Group"
+    },
+    {
+      "character": "く",
+      "pronunciation": "ku",
+      "category": "K-Group"
+    },
+    {
+      "character": "け",
+      "pronunciation": "ke",
+      "category": "K-Group"
+    },
+    {
+      "character": "こ",
+      "pronunciation": "ko",
+      "category": "K-Group"
+    },
+    {
+      "character": "さ",
+      "pronunciation": "sa",
+      "category": "S-Group"
+    },
+    {
+      "character": "し",
+      "pronunciation": "shi",
+      "category": "S-Group"
+    },
+    {
+      "character": "す",
+      "pronunciation": "su",
+      "category": "S-Group"
+    },
+    {
+      "character": "せ",
+      "pronunciation": "se",
+      "category": "S-Group"
+    },
+    {
+      "character": "そ",
+      "pronunciation": "so",
+      "category": "S-Group"
+    },
+    {
+      "character": "た",
+      "pronunciation": "ta",
+      "category": "T-Group"
+    },
+    {
+      "character": "ち",
+      "pronunciation": "chi",
+      "category": "T-Group"
+    },
+    {
+      "character": "つ",
+      "pronunciation": "tsu",
+      "category": "T-Group"
+    },
+    {
+      "character": "て",
+      "pronunciation": "te",
+      "category": "T-Group"
+    },
+    {
+      "character": "と",
+      "pronunciation": "to",
+      "category": "T-Group"
+    },
+    {
+      "character": "な",
+      "pronunciation": "na",
+      "category": "N-Group"
+    },
+    {
+      "character": "に",
+      "pronunciation": "ni",
+      "category": "N-Group"
+    },
+    {
+      "character": "ぬ",
+      "pronunciation": "nu",
+      "category": "N-Group"
+    },
+    {
+      "character": "ね",
+      "pronunciation": "ne",
+      "category": "N-Group"
+    },
+    {
+      "character": "の",
+      "pronunciation": "no",
+      "category": "N-Group"
+    },
+    {
+      "character": "は",
+      "pronunciation": "ha",
+      "category": "H-Group"
+    },
+    {
+      "character": "ひ",
+      "pronunciation": "hi",
+      "category": "H-Group"
+    },
+    {
+      "character": "ふ",
+      "pronunciation": "fu",
+      "category": "H-Group"
+    },
+    {
+      "character": "へ",
+      "pronunciation": "he",
+      "category": "H-Group"
+    },
+    {
+      "character": "ほ",
+      "pronunciation": "ho",
+      "category": "H-Group"
+    },
+    {
+      "character": "ま",
+      "pronunciation": "ma",
+      "category": "M-Group"
+    },
+    {
+      "character": "み",
+      "pronunciation": "mi",
+      "category": "M-Group"
+    },
+    {
+      "character": "む",
+      "pronunciation": "mu",
+      "category": "M-Group"
+    },
+    {
+      "character": "め",
+      "pronunciation": "me",
+      "category": "M-Group"
+    },
+    {
+      "character": "も",
+      "pronunciation": "mo",
+      "category": "M-Group"
+    },
+    {
+      "character": "や",
+      "pronunciation": "ya",
+      "category": "Y-Group"
+    },
+    {
+      "character": "ゆ",
+      "pronunciation": "yu",
+      "category": "Y-Group"
+    },
+    {
+      "character": "よ",
+      "pronunciation": "yo",
+      "category": "Y-Group"
+    },
+    {
+      "character": "ら",
+      "pronunciation": "ra",
+      "category": "R-Group"
+    },
+    {
+      "character": "り",
+      "pronunciation": "ri",
+      "category": "R-Group"
+    },
+    {
+      "character": "る",
+      "pronunciation": "ru",
+      "category": "R-Group"
+    },
+    {
+      "character": "れ",
+      "pronunciation": "re",
+      "category": "R-Group"
+    },
+    {
+      "character": "ろ",
+      "pronunciation": "ro",
+      "category": "R-Group"
+    },
+    {
+      "character": "わ",
+      "pronunciation": "wa",
+      "category": "W-Group"
+    },
+    {
+      "character": "を",
+      "pronunciation": "wo",
+      "category": "W-Group"
+    },
+    {
+      "character": "ん",
+      "pronunciation": "n",
+      "category": "Nasal"
+    },
+    {
+      "character": "が",
+      "pronunciation": "ga",
+      "category": "Dakuten"
+    },
+    {
+      "character": "ぎ",
+      "pronunciation": "gi",
+      "category": "Dakuten"
+    },
+    {
+      "character": "ぐ",
+      "pronunciation": "gu",
+      "category": "Dakuten"
+    },
+    {
+      "character": "げ",
+      "pronunciation": "ge",
+      "category": "Dakuten"
+    },
+    {
+      "character": "ご",
+      "pronunciation": "go",
+      "category": "Dakuten"
+    },
+    {
+      "character": "ざ",
+      "pronunciation": "za",
+      "category": "Dakuten"
+    },
+    {
+      "character": "じ",
+      "pronunciation": "ji",
+      "category": "Dakuten"
+    },
+    {
+      "character": "ず",
+      "pronunciation": "zu",
+      "category": "Dakuten"
+    },
+    {
+      "character": "ぜ",
+      "pronunciation": "ze",
+      "category": "Dakuten"
+    },
+    {
+      "character": "ぞ",
+      "pronunciation": "zo",
+      "category": "Dakuten"
+    },
+    {
+      "character": "だ",
+      "pronunciation": "da",
+      "category": "Dakuten"
+    },
+    {
+      "character": "ぢ",
+      "pronunciation": "ji",
+      "category": "Dakuten"
+    },
+    {
+      "character": "づ",
+      "pronunciation": "zu",
+      "category": "Dakuten"
+    },
+    {
+      "character": "で",
+      "pronunciation": "de",
+      "category": "Dakuten"
+    },
+    {
+      "character": "ど",
+      "pronunciation": "do",
+      "category": "Dakuten"
+    },
+    {
+      "character": "ば",
+      "pronunciation": "ba",
+      "category": "Dakuten"
+    },
+    {
+      "character": "び",
+      "pronunciation": "bi",
+      "category": "Dakuten"
+    },
+    {
+      "character": "ぶ",
+      "pronunciation": "bu",
+      "category": "Dakuten"
+    },
+    {
+      "character": "べ",
+      "pronunciation": "be",
+      "category": "Dakuten"
+    },
+    {
+      "character": "ぼ",
+      "pronunciation": "bo",
+      "category": "Dakuten"
+    },
+    {
+      "character": "ぱ",
+      "pronunciation": "pa",
+      "category": "Handakuten"
+    },
+    {
+      "character": "ぴ",
+      "pronunciation": "pi",
+      "category": "Handakuten"
+    },
+    {
+      "character": "ぷ",
+      "pronunciation": "pu",
+      "category": "Handakuten"
+    },
+    {
+      "character": "ぺ",
+      "pronunciation": "pe",
+      "category": "Handakuten"
+    },
+    {
+      "character": "ぽ",
+      "pronunciation": "po",
+      "category": "Handakuten"
+    },
+    {
+      "character": "きゃ",
+      "pronunciation": "kya",
+      "category": "Yoon"
+    },
+    {
+      "character": "きゅ",
+      "pronunciation": "kyu",
+      "category": "Yoon"
+    },
+    {
+      "character": "きょ",
+      "pronunciation": "kyo",
+      "category": "Yoon"
+    },
+    {
+      "character": "しゃ",
+      "pronunciation": "sha",
+      "category": "Yoon"
+    },
+    {
+      "character": "しゅ",
+      "pronunciation": "shu",
+      "category": "Yoon"
+    },
+    {
+      "character": "しょ",
+      "pronunciation": "sho",
+      "category": "Yoon"
+    },
+    {
+      "character": "ちゃ",
+      "pronunciation": "cha",
+      "category": "Yoon"
+    },
+    {
+      "character": "ちゅ",
+      "pronunciation": "chu",
+      "category": "Yoon"
+    },
+    {
+      "character": "ちょ",
+      "pronunciation": "cho",
+      "category": "Yoon"
+    },
+    {
+      "character": "にゃ",
+      "pronunciation": "nya",
+      "category": "Yoon"
+    },
+    {
+      "character": "にゅ",
+      "pronunciation": "nyu",
+      "category": "Yoon"
+    },
+    {
+      "character": "にょ",
+      "pronunciation": "nyo",
+      "category": "Yoon"
+    },
+    {
+      "character": "ひゃ",
+      "pronunciation": "hya",
+      "category": "Yoon"
+    },
+    {
+      "character": "ひゅ",
+      "pronunciation": "hyu",
+      "category": "Yoon"
+    },
+    {
+      "character": "ひょ",
+      "pronunciation": "hyo",
+      "category": "Yoon"
+    },
+    {
+      "character": "みゃ",
+      "pronunciation": "mya",
+      "category": "Yoon"
+    },
+    {
+      "character": "みゅ",
+      "pronunciation": "myu",
+      "category": "Yoon"
+    },
+    {
+      "character": "みょ",
+      "pronunciation": "myo",
+      "category": "Yoon"
+    },
+    {
+      "character": "りゃ",
+      "pronunciation": "rya",
+      "category": "Yoon"
+    },
+    {
+      "character": "りゅ",
+      "pronunciation": "ryu",
+      "category": "Yoon"
+    },
+    {
+      "character": "りょ",
+      "pronunciation": "ryo",
+      "category": "Yoon"
+    },
+    {
+      "character": "ぎゃ",
+      "pronunciation": "gya",
+      "category": "Yoon"
+    },
+    {
+      "character": "ぎゅ",
+      "pronunciation": "gyu",
+      "category": "Yoon"
+    },
+    {
+      "character": "ぎょ",
+      "pronunciation": "gyo",
+      "category": "Yoon"
+    },
+    {
+      "character": "じゃ",
+      "pronunciation": "ja",
+      "category": "Yoon"
+    },
+    {
+      "character": "じゅ",
+      "pronunciation": "ju",
+      "category": "Yoon"
+    },
+    {
+      "character": "じょ",
+      "pronunciation": "jo",
+      "category": "Yoon"
+    },
+    {
+      "character": "びゃ",
+      "pronunciation": "bya",
+      "category": "Yoon"
+    },
+    {
+      "character": "びゅ",
+      "pronunciation": "byu",
+      "category": "Yoon"
+    },
+    {
+      "character": "びょ",
+      "pronunciation": "byo",
+      "category": "Yoon"
+    },
+    {
+      "character": "ぴゃ",
+      "pronunciation": "pya",
+      "category": "Yoon"
+    },
+    {
+      "character": "ぴゅ",
+      "pronunciation": "pyu",
+      "category": "Yoon"
+    },
+    {
+      "character": "ぴょ",
+      "pronunciation": "pyo",
+      "category": "Yoon"
+    }
+  ]
+}
