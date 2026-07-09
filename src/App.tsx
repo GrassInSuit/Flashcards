@@ -13,7 +13,7 @@ function App() {
     pronunciation:"--",
     category:"--"
   });
-  const characters: HiraganaWord[] = Japanese.hiragana;
+  const characters: HiraganaWord[] = Japanese.katakana;
 
   const wordRandomizer = () => {
     if(shuffle.length===46){
@@ -40,11 +40,17 @@ function App() {
       <div className='CardWrapper'>
       <div className="CardBody">
         <div className='CardFront'>
+          <img className='CardBG' src="src/assets/JapaneseBack.png" alt="" />
+          <div className='CardContent'>
           <h1>{Word.character}</h1>
+          </div>
         </div>
         <div className='CardBack'>
+          <img className='CardBG' src="src/assets/JapaneseFront.png" alt="" />
+          <div className='CardContent'>
           <h1>{Word.character}</h1>
           <p>{Word.pronunciation}</p>
+          </div>
         </div>
         </div>
       </div>
